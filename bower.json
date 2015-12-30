@@ -1,0 +1,21 @@
+{
+  "name": "bloggyblog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Whitney Woolstenhulme <whitney.woolstenhulme@jamberry.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.4"
+  }
+}
